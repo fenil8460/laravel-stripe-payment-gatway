@@ -64,8 +64,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## following this 
 
-STRIPE_KEY=
-STRIPE_SECRET=
+**STRIPE_KEY=
+**STRIPE_SECRET=
 
 above show variable add to env file and that value get in stripe account
 
