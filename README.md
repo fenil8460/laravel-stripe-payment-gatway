@@ -60,3 +60,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## following this 
+
+STRIPE_KEY=
+STRIPE_SECRET=
+
+above show variable add to env file and that value get in stripe account
+
+if your not account in stripe so you can click on this link https://dashboard.stripe.com/login
+and go to devloper in test view so esaliy view that value and set this value in env.
